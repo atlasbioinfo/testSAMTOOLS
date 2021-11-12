@@ -1,0 +1,2 @@
+# testSAMTOOLS
+Test samtools commands
